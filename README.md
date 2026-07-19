@@ -1,4 +1,4 @@
- Hi, I'm Tara Ramaprasad Mavanur 👋
+ **Hi, I'm Tara Ramaprasad Mavanur **👋
 
 **DevOps Engineer** | AWS · Kubernetes · Terraform · CI/CD Automation
 
